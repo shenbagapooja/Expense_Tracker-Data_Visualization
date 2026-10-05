@@ -1,0 +1,20 @@
+[
+    {
+        "name": "book",
+        "amount": 150.0,
+        "category": "stationery",
+        "date": "2/3/2026"
+    },
+    {
+        "name": "movie ticket",
+        "amount": 200.0,
+        "category": "entertainment",
+        "date": "4/4/26"
+    },
+    {
+        "name": "soup",
+        "amount": 34.0,
+        "category": "food",
+        "date": "3/4/26"
+    }
+]
